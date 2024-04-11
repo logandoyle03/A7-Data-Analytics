@@ -4,7 +4,7 @@ This portfolio showcases my journey and experiences in data analytics. It includ
 
 ## My Résumé
 
-For a detailed overview of my professional background, skills, and education, please visit my [Résumé]([http://example.com/link-to-your-resume](https://colab.research.google.com/drive/19zMqnMlUih59lwAZV-tQA1vFah0TBqtw?usp=share_link).
+For a detailed overview of my professional background, skills, and education, please visit my [Résumé](https://colab.research.google.com/drive/19zMqnMlUih59lwAZV-tQA1vFah0TBqtw?usp=share_link)
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@ For a detailed overview of my professional background, skills, and education, pl
 
 - **A5: Regression Analysis**
   - Performed regression analysis to identify factors influencing housing prices using a real estate dataset.
-  - [Jupyter Notebook for Assignment 5]([http://example.com/link-to-assignment-2-notebook](https://colab.research.google.com/drive/1feRlD9kLHiaBOSmjdcBox26o8-h65H7c?usp=share_link))
+  - [Jupyter Notebook for Assignment 5](https://colab.research.google.com/drive/1feRlD9kLHiaBOSmjdcBox26o8-h65H7c?usp=share_link)
 
 ### Module 6: Clustering and Segmentation
 
@@ -41,7 +41,7 @@ For a detailed overview of my professional background, skills, and education, pl
 
 ### Module 7: Use GitHub to Create Your Assignment Portfolio
 
-- **A7: List Your Data Analytics Skills**
+- **A7: Use GitHub to Create Your Assignment Portforlio**
   - Compiled and listed data analytics skills acquired throughout the course, showcasing expertise in various tools and methodologies.
 
 This portfolio represents my journey through the Data Analytics program, highlighting my commitment to learning and applying data analysis techniques to solve real-world problems. Feel free to explore my projects and reach out with any questions or feedback!
