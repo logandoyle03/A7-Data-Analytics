@@ -22,6 +22,7 @@ For a detailed overview of my professional background, skills, and education, pl
 
 - **A3: Work with Data - Yelp Reviews**
   - Analyzed Yelp reviews data to extract insights into customer satisfaction and business performance.
+  - [Jupyter Notebook for Assignment 3](https://colab.research.google.com/drive/1ejfjYhmtW6HjPybBl0efya7v_AmAPlkB?usp=share_link)
 
 ### Module 4: Stats Review
 
